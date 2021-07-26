@@ -1,5 +1,5 @@
 # Title: Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations
-This repository is implementation of MetaDPA submitted to ICDE 2022
+(This repository is implementation of MetaDPA submitted to ICDE 2022)
 
 [Yan Zhang](), [Changyu Li](), [Ivor W. Tsang](), [Hui Xu](), [Lixin Duan](), [Hongzhi Yin](), [Wen Li](), and [Jie Shao](), "Diverse Preference Augmentation with Multiple Domains for Cold-start Recommendations"
 
