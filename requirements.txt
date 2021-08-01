@@ -1,4 +1,4 @@
-torch==1.7.1
+pandas==1.2.3
 tqdm==4.49.0
 ipdb==0.13.9
 pandarallel==1.5.2
